@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nassimouoooo
 - 👀 I’m interested in physics and coding 
-- 🌱 I’m currently learning Python ans Scilab
+- 🌱 I’m currently learning Python and Scilab
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
